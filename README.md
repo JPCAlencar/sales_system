@@ -1,43 +1,42 @@
 # sales-system (Sistema de Vendas)
 
-English
-Overview:
-A comprehensive sales system with integrated data analysis, enabling efficient sales management, trend visualization, forecasting, and performance reporting.
+English 🇺🇸
+🚀 Overview
+A comprehensive sales system with integrated data analysis for efficient sales management, trend visualization, forecasting, and performance reporting.
 
-Note:
-This project is still under development. Some features may be missing or subject to changes.
+⚠️ Status
+Note: This project is still under development. Some features may be missing or subject to changes.
 
-Features:
-
-Sales management and transaction tracking
-Built-in data analytics and visualization tools
-Customizable dashboards and detailed reporting
-Installation & Usage:
-
-Clone the repository and install dependencies.
-Configure environment variables.
-Run the application and access the dashboard to manage sales and view analytics.
-License:
-MIT License
-
+🌟 Features
+Sales Management: Efficiently track and manage transactions.
+Data Analytics: Powerful tools to analyze trends and forecast future sales.
+Visualization: Customizable dashboards with detailed reports.
+🔧 Installation & Usage
+Clone the repository: git clone https://github.com/JPCAlencar/sales_system.git
+Install dependencies: Run your preferred package manager.
+Configure: Set up environment variables as described in the documentation.
+Run: Launch the application and explore the dashboard.
+📄 License
+This project is licensed under the MIT License.
 
 
-Português
-Visão Geral:
-Sistema de vendas completo com análise de dados integrada, permitindo gerenciar vendas, visualizar tendências, prever resultados e gerar relatórios de desempenho.
 
-Observação:
-Este projeto ainda está em desenvolvimento. Algumas funcionalidades podem estar faltando ou sofrer alterações.
 
-Funcionalidades:
+Português 🇧🇷
+🚀 Visão Geral
+Sistema de vendas completo com análise de dados integrada, que permite gerenciar vendas, visualizar tendências, prever resultados e gerar relatórios de desempenho.
 
-Gestão de vendas e acompanhamento de transações
-Ferramentas analíticas e de visualização integradas
-Dashboards customizáveis e relatórios detalhados
-Instalação & Uso:
+⚠️ Status
+Observação: Este projeto ainda está em desenvolvimento. Algumas funcionalidades podem estar faltando ou sofrer alterações.
 
-Clone o repositório e instale as dependências.
-Configure as variáveis de ambiente.
-Execute a aplicação e acesse o dashboard para gerenciar vendas e visualizar análises.
-Licença:
-Licença MIT
+🌟 Funcionalidades
+Gestão de Vendas: Controle e acompanhamento eficiente de transações.
+Análise de Dados: Ferramentas poderosas para analisar tendências e prever vendas futuras.
+Visualização: Dashboards customizáveis com relatórios detalhados.
+🔧 Instalação & Uso
+Clone o repositório: git clone https://github.com/JPCAlencar/sales_system.git
+Instale as dependências: Utilize o gerenciador de pacotes de sua preferência.
+Configure: Ajuste as variáveis de ambiente conforme descrito na documentação.
+Execute: Inicie a aplicação e explore o dashboard.
+📄 Licença
+Este projeto está licenciado sob a Licença MIT.
